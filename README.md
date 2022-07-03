@@ -1,5 +1,8 @@
 # ﻿Vaak-Bhaavna
-﻿Vaak-Bhaavna
+This project utilizes ML model to recongnize emotion behind the voice of a person. <br />
+For feature extraction <a href="https://en.wikipedia.org/wiki/Mel-frequency_cepstrum#:~:text=Mel%2Dfrequency%20cepstral%20coefficients%20(MFCCs,%2Da%2Dspectrum%22).">MFCC</a> is used after that CNN model is trained and used.
+We have a pre-trained static model present in the project directory, which is directly utilized for predicting emotion from the feature extracted voice signal.
+
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
  
