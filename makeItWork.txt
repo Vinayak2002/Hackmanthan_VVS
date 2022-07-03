@@ -1,0 +1,13 @@
+It is advisable to have anaconda install to PATH.
+
+Use following command to create envirmonet from yml file:
+conda env create -f environment.yml
+
+Use following command to activate environment:
+conda activate hackmanthan
+
+Use following command to install required packages:
+pip install requirements.txt
+
+Use following run the application:
+streamlit run app.py
