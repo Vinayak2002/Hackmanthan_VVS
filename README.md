@@ -59,4 +59,4 @@ streamlit run app.py
 ```
 ---
 
-Made with :heart: at IIIT Naya Raipur .
+Made with :heart: at IIIT Naya Raipur.
