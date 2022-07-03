@@ -2,6 +2,7 @@ numpy
 pandas
 matplotlib
 Pillow
+opencv-python
 opencv-python-headless==4.5.1.48
 plotly
 requests
