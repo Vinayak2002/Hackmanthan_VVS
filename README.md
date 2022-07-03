@@ -1,5 +1,5 @@
 # ﻿Vaak-Bhaavna
-This project utilizes ML model to recongnize emotion behind the voice of a person. <br />
+This project utilizes ML model to recognize emotion behind the voice of a person. <br />
 For feature extraction <a href="https://en.wikipedia.org/wiki/Mel-frequency_cepstrum#:~:text=Mel%2Dfrequency%20cepstral%20coefficients%20(MFCCs,%2Da%2Dspectrum%22).">MFCC</a> is used after that CNN model is trained and used.
 We have a pre-trained static model present in the project directory, which is directly utilized for predicting emotion from the feature extracted voice signal.
 
