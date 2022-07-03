@@ -1,8 +1,30 @@
-# Hackmanthan_VVS
+# ﻿Vaak-Bhaavna
 ﻿Vaak-Bhaavna
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
  
+## Images
+
+* Home Page -
+<p align ="center" >
+<img  width="700" src="https://github.com/Vinayak2002/Hackmanthan_VVS/blob/main/images/home.png">
+</p>
+
+* About Page -
+<p align ="center" >
+<img  width="700" src="https://github.com/Vinayak2002/Hackmanthan_VVS/blob/main/images/pd.png">
+</p>
+
+* Team Page -
+<p align ="center" >
+<img  width="700" src="https://github.com/Vinayak2002/Hackmanthan_VVS/blob/main/images/team.png">
+</p>
+
+* Results -
+<p align ="center" >
+<img  width="700" src="https://github.com/Vinayak2002/Hackmanthan_VVS/blob/main/images/results.png">
+</p>
+
 ## Prerequisites
 
 1. Basics of Python 
